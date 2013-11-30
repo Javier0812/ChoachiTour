@@ -1,0 +1,11 @@
+@charset "utf-8";
+#page1 div .ui-grid-a .ui-block-b img {
+	margin-left: 5%;
+}
+
+iconos {
+	left: 1px;
+	clip: rect(auto,auto,auto,1px);
+	position: absolute;
+	right: auto;
+}
